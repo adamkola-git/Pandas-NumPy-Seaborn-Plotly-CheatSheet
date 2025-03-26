@@ -1,6 +1,6 @@
 📄 Full Data Analysis Cheatsheet
 
-This repository contains a comprehensive HTML-based cheatsheet for data analysis in Python, designed as a quick reference for both beginners and experienced practitioners. The document consolidates essential Pandas, NumPy, and data cleaning operations in a visually accessible and structured format.
+This repository contains a comprehensive Jupyter cheatsheet for data analysis in Python, designed as a quick reference for both beginners and experienced practitioners. The document consolidates essential Pandas, NumPy, and data cleaning operations in a visually accessible and structured format.
 
 🧰 Features
 	•	Clean HTML layout for in-browser viewing.
